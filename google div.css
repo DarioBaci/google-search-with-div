@@ -1,0 +1,17 @@
+.google{
+    text-align: center;
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.google-img{
+    width: 400px;
+}
+
+.search-tab{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
